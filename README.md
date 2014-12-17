@@ -45,7 +45,8 @@ Option 2: 
 Total student cost for 4 months = $300 plus tax
 
 ## Photoshop and Illustrator
-1. Make sure you down these two programs from Creative Cloud. We will use them regularly.
+Make sure you down these two programs from Creative Cloud. We will use them regularly.
+
 
 ### Watch short videos and work through easy tutorials on Photoshop (~2hrs):
 - The Photoshop Workspace: https://helpx.adobe.com/photoshop/how-to/introduction-work-area.html?set=photoshop--fundamentals--photoshop-workspace
