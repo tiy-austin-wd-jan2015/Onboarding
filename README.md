@@ -46,6 +46,7 @@ Total student cost for 4 months = $300 plus tax
 
 ## Photoshop and Illustrator
 1. Make sure you down these two programs from Creative Cloud. We will use them regularly.
+
 ### Watch short videos and work through easy tutorials on Photoshop (~2hrs):
 - The Photoshop Workspace: https://helpx.adobe.com/photoshop/how-to/introduction-work-area.html?set=photoshop--fundamentals--photoshop-workspace
 - Working with zoom: https://helpx.adobe.com/photoshop/how-to/photoshop-zoom-tool.html?set=photoshop--fundamentals--photoshop-workspace
@@ -57,6 +58,7 @@ Total student cost for 4 months = $300 plus tax
 - Understanding resolution: https://helpx.adobe.com/photoshop/how-to/image-resolution-explained.html?set=photoshop--fundamentals--essential-tasks
 - Using the magical history palette: https://helpx.adobe.com/photoshop/how-to/photoshop-undo-history-panel.html?set=photoshop--fundamentals--essential-tasks
 - Saving a JPG: https://helpx.adobe.com/photoshop/how-to/save-as-jpeg.html?set=photoshop--fundamentals--print-share-photo
+
 
 ### Watch short videos and work through easy tutorials on Illustrator (~3hrs):
 - Overview: https://helpx.adobe.com/illustrator/how-to/what-is-illustrator.html?set=illustrator--get-started--overview
