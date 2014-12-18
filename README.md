@@ -88,3 +88,5 @@ Believe it or not, *a lot* of time in the first weeks of coding and programming 
 
 If you don't know how to touch type (i.e. type without looking at the keyboard), try to spend some time each day working on touch typing (you can try http://www.keybr.com/). Typing for programming is actually a good bit different than everyday typing, so getting some practice in could potentially save you a ton of time the first few weeks of class.
 
+# Observation
+A big part of Web Design is looking at what’s out there and what actually makes good design. Here are award winning sites, so you can see the type of work we'll be creating in your design class.
